@@ -4,7 +4,7 @@
 >This is a public repository for anyone who wishes to see what I have been up to!
 
 
-## What is inside this repository?
+## What is inside this Repository?
 > Mainly projects that I have *(or currently am)* working on. There will be a wide variety of projects hopefully!
 
 
