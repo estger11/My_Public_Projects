@@ -1,0 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Name: Eli St. Germain                                       #
+# Project: Curriculum Guide                                   #
+# Description: This is an idea board for the project.         #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# 
